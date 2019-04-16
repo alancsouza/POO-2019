@@ -1,4 +1,4 @@
-// Object counter using copy constructor and static member functins and atribures
+// Object counter using copy constructor and static member functins and atributes
 #include <iostream>
 #include <string>
 
